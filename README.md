@@ -1,0 +1,2 @@
+# WstepDoProgramowania
+WstepDoProgramowaniaPython
